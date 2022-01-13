@@ -10,10 +10,10 @@ News API: https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/
 
 Crpyto API: https://rapidapi.com/Coinranking/api/coinranking1/
 
-![Home page](/images/home.png)
+![Home page](./src/images/home.png)
 
-![Top 100 coins](/images/coins.png)
+![Top 100 coins](./src/images/coins.png)
 
-![News page](/images/news.png)
+![News page](./src/images/news.png)
 
-![Coin stats](/images/stats.png)
+![Coin stats](./src/images/stats.png)
